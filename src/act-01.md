@@ -28,11 +28,11 @@ MrSpacerGif: Sure, gif me a second.
 
 MrSpacerGif: The nibblecoin miner drones are reporting 5 new hash collisions found. Forwarding them to the mainframe now.
 
-nbsp: You see, the moon named Io, that we are now using as a space travel device, contains a self-sufficient cryptographic storage system!
+nbsp: You see, the moon named Io, that we are now using as a space travel device, contains a self-sufficient cryptographic synthesis system!
 
 MrSpacerGif: We're not quite sure how it works yet, but it runs on a currency that we have called nibblecoin. By finding hash collisions in the rainbow chain, you can feed the Io Moonad. Or rather, pay it to feed you.
 
-nbsp: Indeed, when you provide the system with hash collisions, it produces organic material. There must be some sort of synthesis going on. Am I right space kitten?
+nbsp: Indeed, when you provide the system with hash collisions, it produces organic material. There must be some sort of synthesis going on. Am I right, space kitten?
 
 SpaceKitten: Meow.
 
