@@ -48,6 +48,6 @@ SpaceKitten: Meow.
 
 *Synthesis port that is attached to moon mountain opens, two hot chocolate cups comes out.*
 
-nbsp: Woot, I managed to synthesize our names on to the cup. Brute-forcing the algorithm for that took much longer than those few hash collisions. But I guess you have a lot of time in space.
+nbsp: Woot, I managed to synthesize our names on to the cups. Brute-forcing the algorithm for that took much longer than those few hash collisions. But I guess you have a lot of time in space.
 
 *Hands hot chocolate to MrSpacerGif, they both take a sip.*
