@@ -2,7 +2,7 @@
 
 # Act I
 
-## Scene I: The Io Moonad
+## The Io Moonad
 
 *MrSpacerGif, nbsp and SpaceKitten are in space. they have re-appropriated one of the moons of jupiter as a spaceship, by attaching some pretty sweet engines that are thrusting the sphere further away from the sun.*
 
