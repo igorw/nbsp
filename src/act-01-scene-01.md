@@ -2,6 +2,8 @@
 
 # Act I
 
+## Scene I: The Io Moonad
+
 *MrSpacerGif, nbsp and SpaceKitten are in space. they have re-appropriated one of the moons of jupiter as a spaceship, by attaching some pretty sweet engines that are thrusting the sphere further away from the sun.*
 
 MrSpacerGif: I'm feeling cold. I'm hungry. But I don't want to get up. Can somebody make me some hot chololate? Please? I feel so empty today.
